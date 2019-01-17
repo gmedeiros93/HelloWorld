@@ -1,2 +1,0 @@
-# HelloWorld
-Teste - Hello World
